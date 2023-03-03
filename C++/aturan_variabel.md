@@ -1,4 +1,4 @@
-#[+] Aturan Penamaan Variabel [+]
+# [+] Aturan Penamaan Variabel [+]
 
 <b>Syarat dan ketentuan penamaan variabel di C++</b>
 ```
