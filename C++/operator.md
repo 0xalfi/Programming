@@ -1,10 +1,10 @@
 # [+] Operator [+]
 
 ```
-1. Arithmetic Operators : +, -, *, /, %
-2. Assignment Operators : +=, -=, *=, /=, %=
-3. Comparison Operators : ==, !=, >, <, >=, <=
-4. Logical Operators : &&, ||, not
+1. Arithmetic Operators : + - * / %
+2. Assignment Operators : += -= *= /= %=
+3. Comparison Operators : == != > < >= <=
+4. Logical Operators : && || not
 ```
 
 # [+] Nilai Prioritas Operator [+]
