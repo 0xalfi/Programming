@@ -1,4 +1,5 @@
 # Text-formatting:
+
 \033[0m: Reset all text attributes to their default values (removes any formatting).
 \033[1m: Bold or increased intensity text.
 \033[2m: Faint (decreased intensity) text.
